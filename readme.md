@@ -27,7 +27,7 @@ _TODO:_
  -python-dotenv?
 - jinja2
 - mypy
-- Black pylint
+- Black flake8 или pylint
 - we-make-python-styleguide
 - starlette
 - Tortoise ?
