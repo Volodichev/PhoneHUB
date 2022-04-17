@@ -1,7 +1,7 @@
 # 🚫Антиспам сайт с телефонами📞 на [FastAPI](https://github.com/tiangolo/fastapi) 
 ### _"Кто звонил? Не бери трубку"_
 
-hallo
+
 ### Stack:
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="15" height="15"/> Python 3.10 <br/>
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" alt="docker" width="15" height="15"/> Fastapi <br/>
